@@ -5,3 +5,4 @@ Mini-game  Paper-Scissors-Stone
 3. Js <br>
 4. Code svg <br>
 5. Data URI for icon <br>
+6. RWD
